@@ -1,1 +1,8 @@
-﻿https://janatsbeautyspa.github.io/index.html
+﻿https://janatsbeautyspa.github.io/aboutus.html
+https://janatsbeautyspa.github.io/hair.html
+https://janatsbeautyspa.github.io/index.html
+https://janatsbeautyspa.github.io/makeup.html
+https://janatsbeautyspa.github.io/massage.html
+https://janatsbeautyspa.github.io/nails.html
+https://janatsbeautyspa.github.io/piercing.html
+https://janatsbeautyspa.github.io/tattoo.html
