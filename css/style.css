@@ -1,17 +1,21 @@
 /*magenta, lime, fuschia, green, chartreuse*/
 body {
 		background-color: magenta;
+		 margin: 0;
 	   	}
-
-h1{
+		
+	h1{
 		text-align: center;
 		color: chartreuse;
+		 margin-bottom: 0px;
 }
 
 
 h2{
 		text-align: center;
 		color: chartreuse;
+		 margin-bottom: 0px;
+		  margin-top: 0px;
 }
 
 
@@ -19,14 +23,24 @@ h3{
 	
 	text-align: center;
 	color: chartreuse;
+	margin-bottom: 0px;
+		  margin-top: 0px;
 }
 
 h4{
 
 	text-align: center;
 	color: chartreuse;
+	margin-bottom: 0px;
+		  margin-top: 0px;
 }
+
+p{
+  margin-bottom: 0px;
+		  margin-top: 0px;
 }
+
+
 
  {
     box-sizing: border-box;
@@ -34,21 +48,17 @@ h4{
 
 
 
-body {
-  margin: 0;
-}
-
 footer { 
 text-align: center;
 color: chartreuse;
 font-weight: bold ;
-font-size: 27px
+font-size: 34px
  }
 
 /* Style the header */
 .header {
     background-color: #f1f1f1;
-    padding: 20px;
+    /*padding: 20px;*/
     text-align: center;
 	
 }
@@ -69,11 +79,14 @@ font-size: 27px
     text-decoration: none;
 }
 
-/* Change color on hover */
+/* Change color on hover 
 .topnav a:hover {
     background-color: #ddd;
     color: black;
 }
+*/
+
+
 </style>
 </head>
 <body>
