@@ -6,7 +6,7 @@ body {
 		
 	h1{
 		text-align: center;
-		color: chartreuse;
+		color: magenta;
 		 margin-bottom: 0px;
 		 margin-top: 0px;
 }
@@ -14,7 +14,7 @@ body {
 
 h2{
 		text-align: center;
-		color: chartreuse;
+		color: magenta;
 		 margin-bottom: 0px;
 		  margin-top: 0px;
 }
@@ -23,7 +23,7 @@ h2{
 h3{
 	
 	text-align: center;
-	color: chartreuse;
+	color: magenta;
 	margin-bottom: 0px;
 		  margin-top: 0px;
 }
@@ -31,7 +31,7 @@ h3{
 h4{
 
 	text-align: center;
-	color: chartreuse;
+	color: magenta;
 	margin-bottom: 0px;
 		  margin-top: 0px;
 }
@@ -67,7 +67,7 @@ font-size: 34px
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: magenta;
+    background-color: chartreuse;
 }
 
 /* Style the topnav links */
