@@ -1,8 +1,11 @@
 /*magenta, lime, fuschia, green, chartreuse*/
 body {
-		background-color: white;
+		background-color: #FFFACD;
 		 margin: 0;
+		   background-image: ("images/backgroundgreenwhitespiral.jpg");
 	   	}
+		
+		
 		
 	h1{
 		text-align: center;
@@ -104,3 +107,9 @@ font-size: 34px
     display:inline-block;
     padding:10px;
 }
+
+
+
+		
+	
+	
